@@ -1,0 +1,15 @@
+export const fixsents = {
+    acc_1: 'I prefer the first one.',
+    acc_2: 'I prefer the second one.',
+    acc_b: 'I am OK with either of them.',
+    rej: "I like neither of them.",
+    ge1: 'I am glad that the recommendation works! Hope you enjoy the meal when you try it out!',
+    ge2: 'I am glad you like my recommendation! Enjoy your meal when you try it out!',
+    be: "It seems like my recommendation skill needs some improvement, but thank you for your feedback. This is the end of the conversation.",
+    prefix1: "Searching finished! Here are two recommendations:",
+    afterfix1: "Scroll up to check the two recommendations. Would you like to try any of them in the following days?",
+    prefix2: "I got a better idea! Here are my recommendations:",
+    afterfix2: "Please scroll up to check my recommendations. Now would you like to try any of them in the following days?",
+    fb: "Could you tell me why you don't like these foods? I'll try to refine the recommendation based on your input. Due to the token limitation, the next round will be the last-round of recommendations.",
+    cus: "Hello there! I'm SmartEats, an AI powered nutrition expert who is here to provide personalized dietary recommendations to you.\n\nOn the left side, you customize my personality, conversational styles, and specify other characteristics.\n\nOnce you're done, simply click the **Preview** button below to see how I'll communicate with the chosen settings. It might take a few moments for me to generate the conversation preview, so please bear with me.  ",
+};

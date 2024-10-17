@@ -1,0 +1,17 @@
+export const qualisents = {
+    prefix: 'Before proceeding to the survey, we need to make sure that you meet the inclusion criteria by asking the following questions.',
+    first: '1. Are you over 18?',
+    second: '2. What is your English fluency in reading and writing?',
+    third: '3. Are you interested in using an AI chatbot for food recommendation?',
+    fourth: "4. Are you currently dealing with any severe health conditions that require you to be extremely cautious about your diet (e.g., Coronary heart disease, diabetic ketoacidosis (DKA), renal failure)?",
+    fifth: '1. What is your biological sex?',
+    sixth: '2. How old are you?',
+    seventh: "3. What is your height (cm)?",
+    eighth: "4. What is your weight (kg)?",
+    ninth: "5. Which country/region do you currently live in?",
+    tenth: "6. Do you have any dietary restrictions (e.g., vegetarianism)? You may skip this question if it does not apply to you.",
+    eleventh: "7. Are there any specific aspects of your health that you would like to improve (e.g., energy level, physical fitness, sleep quality, immunity)?\nPlease leave the input box blank if you do not have any aspects to improve.",
+    twelfth: "8. How do you want us to address you?",
+    thirteenth: "9. Your email address:",
+    cus: "Customize the chatbot before proceeding to the conversation.",
+};
