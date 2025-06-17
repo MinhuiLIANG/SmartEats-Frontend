@@ -1,4 +1,4 @@
-## Frontend of SmartEats [cui-25-full & short papers]
+## Frontend of SmartEats [cui-25 📎[full](https://yuhanlolo.github.io/me/papers/cui25-smarteats-liang.pdf) & 📎[short](https://yuhanlolo.github.io/me/papers/cui25-multi-llm-liang.pdf) papers]
 This repo includes the frontend of a conversational dietary recommender system based on react-native-web. The customization interface looks like this:
 ![image](teaser.png)
 
