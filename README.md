@@ -12,5 +12,4 @@ This repo includes the frontend of a conversational dietary recommender system b
 - `index.js`: entrance;
 
 **🥠 What you need to configure:**
-- server;
-- the corresponding backend api addresses in files under `Getapi`.
+- The corresponding backend api addresses in files under `Getapi`.
