@@ -1,6 +1,6 @@
 ## Frontend of SmartEats [cui-25-full & short papers]
 This repo includes the frontend of a conversational dietary recommender system based on react-native-web. The customization interface looks like this:
-
+![image](teaser.png)
 
 **🍝 The project structure is described as follows:**
 - `Pages`: pages of the web application;
